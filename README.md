@@ -1,4 +1,4 @@
-# ATS_Cummins855_Sound_Plugin
+# American Truck Simulator Sound Plugin - Cummins 855 
 
 - CAT Engine Sound Plugin /w Brake and Retarder now!
 - 1/30/23 Added Air Pressure Bank and Park Brake sound banks
