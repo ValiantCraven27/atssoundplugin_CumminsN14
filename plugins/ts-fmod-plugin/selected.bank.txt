@@ -1,6 +1,11 @@
 cummins_855_kriechbaum
 cummins_isx_sp_rm
 brake.effects
+park_brake
+stick_blinker
+reverse
 retarder
 air_compressor
-park_brake
+air_horns
+gear_grind
+
