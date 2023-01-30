@@ -3,4 +3,4 @@ cummins_isx_sp_rm
 brake.effects
 retarder
 air_pressure
-parking_brake
+park_brake
