@@ -7,4 +7,6 @@
 2. Just drop plugins folder in win_64x and restart game.
 3. Turn off Engine, Turbo and Exhaust sounds in settings as you may hear dual sounds
 
+- To change volume go into ts-fmod-folder and locate sound_levels. You can change volume there.
+
 - When switching engine plugins delete ts_fmod_plugin folder and do a clean install each time.
