@@ -1,7 +1,7 @@
 # ATS_Cummins855_Sound_Plugin
 
 - CAT Engine Sound Plugin /w Brake and Retarder now!
-- Added Air Pressure Bank
+- 1/30/23 Added Air Pressure Bank and Park Brake sound banks
 
 1. Install in your steam folder C:\steam\steamapps\common\American Truck Simulator\bin\win_x64
 2. Just drop plugins folder in win_64x and restart game.
