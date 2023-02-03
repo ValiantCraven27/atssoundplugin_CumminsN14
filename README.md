@@ -1,4 +1,4 @@
-# American Truck Simulator Sound Plugin - Cummins 855 
+# American Truck Simulator Sound Plugin - Cummins N14 
 
 - CUMMINS Engine Sound Plugin /w Brake and Retarder now!
 - 1/30/23 Added Air Pressure and Park Brake sound banks
