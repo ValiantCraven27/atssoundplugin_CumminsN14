@@ -6,4 +6,6 @@ park_brake
 stick_blinker
 retarder
 air_horns
+road_noise
+trailer_coupling
 
